@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T22:11:00 IST" name="Suite" finished-at="2023-07-17T22:11:06 IST" duration-ms="6250">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T22:11:00 IST" name="Test" finished-at="2023-07-17T22:11:06 IST" duration-ms="6250">
+      <class name="testcases.CareersApplyTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:10:49 IST" name="beforeSuite" finished-at="2023-07-17T22:11:00 IST" duration-ms="10275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="createObject()[pri:0, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:00 IST" name="createObject" finished-at="2023-07-17T22:11:00 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method signature="nameLabelValidation()[pri:1, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:00 IST" name="nameLabelValidation" finished-at="2023-07-17T22:11:00 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameLabelValidation -->
+        <test-method signature="nameTextboxValidation()[pri:2, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:00 IST" name="nameTextboxValidation" finished-at="2023-07-17T22:11:01 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameTextboxValidation -->
+        <test-method signature="emailLabelValidation()[pri:3, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:01 IST" name="emailLabelValidation" finished-at="2023-07-17T22:11:01 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailLabelValidation -->
+        <test-method signature="emailTextboxValidation()[pri:4, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:01 IST" name="emailTextboxValidation" finished-at="2023-07-17T22:11:01 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailTextboxValidation -->
+        <test-method signature="phoneLabelValidation()[pri:6, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:01 IST" name="phoneLabelValidation" finished-at="2023-07-17T22:11:01 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneLabelValidation -->
+        <test-method signature="phoneTextboxValidation()[pri:7, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:01 IST" name="phoneTextboxValidation" finished-at="2023-07-17T22:11:02 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneTextboxValidation -->
+        <test-method signature="resumeLabelValidation()[pri:8, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:02 IST" name="resumeLabelValidation" finished-at="2023-07-17T22:11:02 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resumeLabelValidation -->
+        <test-method signature="resumeTextboxValidation()[pri:9, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:02 IST" name="resumeTextboxValidation" finished-at="2023-07-17T22:11:02 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resumeTextboxValidation -->
+        <test-method signature="descriptionLabelValidation()[pri:10, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:02 IST" name="descriptionLabelValidation" finished-at="2023-07-17T22:11:02 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionLabelValidation -->
+        <test-method signature="descriptionTextboxValidation()[pri:11, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:02 IST" name="descriptionTextboxValidation" finished-at="2023-07-17T22:11:05 IST" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionTextboxValidation -->
+        <test-method signature="applyNowButtonLabelValidation()[pri:12, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:05 IST" name="applyNowButtonLabelValidation" finished-at="2023-07-17T22:11:05 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyNowButtonLabelValidation -->
+        <test-method signature="applyNowButtonValidation()[pri:13, instance:testcases.CareersApplyTests@49d904ec]" started-at="2023-07-17T22:11:05 IST" name="applyNowButtonValidation" finished-at="2023-07-17T22:11:06 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyNowButtonValidation -->
+      </class> <!-- testcases.CareersApplyTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
